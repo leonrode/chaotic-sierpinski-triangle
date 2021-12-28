@@ -12,7 +12,7 @@ A more interesting method of generating Sierpinski Triangles is known as the Cha
 5. Draw `p`
 6. Repeat from step 3
 
-This repository contains code that implementing the above algorithm using [p5.js](https://p5js.org/) and [math.js](https://mathjs.org/).
+This repository contains code that implementing the above algorithm using [p5.js](https://p5js.org/) and [math.js](https://mathjs.org/). A live example can be found [here](https://editor.p5js.org/leonrode/sketches/Em7nY-9eW).
 
 ## Results of the algorithm
 
